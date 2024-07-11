@@ -24,4 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "TestLibPublic"
 include(":app")
-include(":publiclibrarytest")
+//include(":publiclibrarytest")

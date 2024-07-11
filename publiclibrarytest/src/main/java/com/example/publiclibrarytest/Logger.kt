@@ -8,4 +8,10 @@ object Logger {
     fun printLibraryLog(){
         Log.d(TAG, "Testing library log")
     }
+
+
+
+    fun printTestLog(){
+        Log.d(TAG, "Testing test log")
+    }
 }
